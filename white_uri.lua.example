@@ -1,0 +1,5 @@
+return{
+    "/web-api/api/login",
+    "/user/login",
+    "/set_token"
+}
